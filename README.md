@@ -1,1 +1,1 @@
-<img src="https://og.srg.codes/Hi,%20I'm%20**Shaunak**.png?md=1">
+<img src="https://cdn.srg.codes/images/header/header.svg">
