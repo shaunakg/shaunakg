@@ -1,30 +1,32 @@
 
 
 <h2>cool projects</h2>
+<i>with the time it took me to make each one</i>
+
 <ul>
   
 <li>
-  <a href="//cardz.srg.id.au">Cardz - a smart textbook viewer that helps you learn using machine learning</a>
+    <a href="//sixtysecondshell.srg.id.au"</a>[~40 days] SixtySecondShell - sixty seconds of many programming languages</a>
 </li>
 
 <li>
-    <a href="//sixtysecondshell.srg.id.au"</a>SixtySecondShell - sixty seconds of many programming languages</a>
+  <a href="//cardz.srg.id.au">[~1 week] Cardz - a smart textbook viewer that helps you learn using machine learning</a>
 </li>
 
 <li>
-    <a href="//c2n.srg.id.au">Canvas to Notion Integration</a>
+    <a href="//c2n.srg.id.au">[~1.5 weeks] Canvas to Notion Integration</a>
 </li>
 
 <li>
-    <a href="//studyboard.srg.codes">Studyboard - an aesthetic board for students.</a>
+    <a href="//studyboard.srg.codes">[~1.5 weeks] Studyboard - an aesthetic board for students.</a>
 </li>
 
 <li>
-    <a href="//covid-anonymous.herokuapp.com">COVID-19 Anonymous Disclousure/Notification</a>
+    <a href="//covid-anonymous.herokuapp.com">[~1 month] COVID-19 Anonymous Disclousure/Notification</a>
 </li>
 
 <li>
-    <a href="https://github.com/shaunakg/gforms-short-linking">Google Forms short-link service</a>
+    <a href="https://github.com/shaunakg/gforms-short-linking">[~2 days] Google Forms short-link service</a>
 </li>
 
 </ul>
