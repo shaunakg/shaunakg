@@ -7,7 +7,7 @@
 <ul>
   
 <li>
-    <a href="//sixtysecondshell.srg.id.au"</a>[~40 days] SixtySecondShell - sixty seconds of many programming languages</a> - <a href=https://git.io/J8iX0>Backend</a>, <a href=https://git.io/J8iXK>Frontend</a>
+    [~40 days] SixtySecondShell - sixty seconds of many programming languages - <a href=https://git.io/J8iX0>Backend</a>, <a href=https://git.io/J8iXK>Frontend</a>. <i>offline due to server issues</i>
 </li>
 
 <li>
