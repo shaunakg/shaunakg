@@ -1,33 +1,14 @@
 
 # hi
 
-<h2>cool projects i've made</h2>
-<i>arranged in descending order of coolness with the time it took me to make each one, and source code if released</i><br/><br/>
+I'm a web developer and I create immersive websites that benefit people. Some of the projects I'm most proud of are:
 
-<ul>
-  
-<li>
-    [~40 days] SixtySecondShell - sixty seconds of many programming languages - <a href=https://git.io/J8iX0>Backend</a>, <a href=https://git.io/J8iXK>Frontend</a>. <i>offline due to server issues</i>
-</li>
+- [Cardz - an educational platform with machine learning at its core](https://cardz.tech)
+- SixtySecondShell - try out any programming language for a minute ([Backend](https://git.io/J8iX0), [Frontend](https://git.io/J8iXK))
+- [Studyboard - an aesthetic board for students](https://studyboard.srg.codes) ([Source code](https://git.io/J8iMu))
+- [COVID-19 Anonymous Notifier](https://covid-anonymous.herokuapp.com)
+- [Notion Reading List syncing integration](https://srg.id.au/notion-reading-list/)
+- Various [educational utilities for Notion](https://edutools.srg.id.au/)
+- [A short-link tool based off of Google Forms](https://github.com/shaunakg/gforms-short-linking)
 
-<li>
-  <a href="//cardz.srg.id.au">[~1 week] Cardz - a smart textbook viewer that helps you learn using machine learning</a> - <a href=https://github.com/shaunakg/cardz>Application source code</a>
-</li>
-
-<li>
-    <a href="//studyboard.srg.codes">[~1.5 weeks] Studyboard - an aesthetic board for students.</a> - <a href=https://git.io/J8iMu>Source code</a>
-</li>
-
-<li>
-    <a href="//covid-anonymous.herokuapp.com">[~1 month] COVID-19 Anonymous Notifier</a>
-</li>
-
-<li>
-    <a href="//c2n.srg.id.au">[~1.5 weeks] Canvas to Notion Integration</a>
-</li>
-
-<li>
-    <a href="https://github.com/shaunakg/gforms-short-linking">[~2 days] Google Forms short-link service</a>
-</li>
-
-</ul>
+I have a personal website at [srg.id.au](https://srg.id.au) where you can learn more about me and what I do.
