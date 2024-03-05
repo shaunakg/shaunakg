@@ -1,9 +1,9 @@
 
-# hi
+# Hi
 
 I'm a student developer and I create immersive websites that benefit people. Some of the projects I'm most proud of are:
 
-- [Cardz - an educational platform with machine learning at its core](https://cardz.tech)
+- [Cardz - an educational platform with machine learning at its core](https://srg.id.au/posts/building-cardz/)
 - SixtySecondShell - try out any programming language for a minute ([Backend](https://git.io/J8iX0), [Frontend](https://git.io/J8iXK))
 - [Studyboard - an aesthetic board for students](https://studyboard.srg.codes) ([Source code](https://git.io/J8iMu))
 - [COVID-19 Anonymous Notifier](https://covid-anonymous.herokuapp.com)
